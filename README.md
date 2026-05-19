@@ -28,6 +28,7 @@ A curated list of AI-powered coding assistants, prompt engineering resources, an
 ## AI-Powered CLI Tools
 
 - [Claude Code](https://claude.ai/code) - Anthropic's terminal-native coding agent. Understands entire codebases, runs commands, edits files.
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Local CLI/TUI for inspecting AI coding agent session logs, cost, token usage, latency, failures, and health.
 - [Warp](https://www.warp.dev) - Modern terminal with AI-powered command autocomplete and agent mode.
 - [Shell-GPT](https://github.com/TheR1D/shell_gpt) - GPT in your terminal. Generate shell commands, explain errors, and write scripts.
 
